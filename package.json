@@ -1,0 +1,13 @@
+{
+  "name": "bash.org",
+  "version": "1.0.0",
+  "description": "My version of bash.org",
+  "main": "server.js",
+  "author": "DraX",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.3",
+    "nconf": "^0.7.2"
+  }
+}
